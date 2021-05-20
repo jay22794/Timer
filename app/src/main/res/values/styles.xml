@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="colorControlHighlight">@color/trans_black_50</item>
+    </style>
+
+    <style name="editTextTheme" parent="@android:style/Widget.EditText">
+        <item name="android:padding">@dimen/_10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="singleLine">true</item>
+        <item name="android:textColorHint">@color/black_7c</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:textSize">@dimen/_16sp</item>
+    </style>
+
+    <style name="Font_BOLD">
+        <item name="fontPath">Quicksand-SemiBold.ttf</item>
+    </style>
+
+</resources>

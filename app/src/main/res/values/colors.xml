@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#9059de</color>
+    <color name="colorPrimaryDark">#804fc5</color>
+    <color name="colorAccent">#1A1A1A</color>
+
+    <color name="black_3c">#3c3c3c</color>
+    <color name="black_4c">#4c4c4c</color>
+    <color name="black_5c">#5c5c5c</color>
+    <color name="black_6c">#6c6c6c</color>
+    <color name="black_7c">#7c7c7c</color>
+    <color name="black_9c">#9c9c9c</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="trans_white_80">#80FFFFFF</color>
+    <color name="trans_white_50">#50FFFFFF</color>
+    <color name="trans_white_30">#30FFFFFF</color>
+    <color name="trans_white_10">#10FFFFFF</color>
+    <color name="trans_white_aa">#aaFFFFFF</color>
+    <color name="trans_white_cc">#ccFFFFFF</color>
+    <color name="trans_white_fa">#fafafa</color>
+
+    <color name="black">#000000</color>
+    <color name="trans_black_80">#80000000</color>
+    <color name="trans_black_50">#50000000</color>
+    <color name="trans_black_30">#30000000</color>
+    <color name="trans_black_10">#10000000</color>
+    <color name="trans_black_aa">#aa000000</color>
+    <color name="trans_black_cc">#cc000000</color>
+    <color name="trans_black_ee">#ee000000</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="gray_55">#555555</color>
+    <color name="gray_77">#777777</color>
+    <color name="gray_99">#999999</color>
+    <color name="gray_aa">#aaaaaa</color>
+    <color name="gray_bb">#bbbbbb</color>
+    <color name="gray_d3">#d3d3d3</color>
+    <color name="gray_e0">#e0e0e0</color>
+    <color name="gray_ee">#eeeeee</color>
+    <color name="gray_ef">#efefef</color>
+    <color name="gray_f0">#f0f0f0</color>
+    <color name="gray_fa">#fafafa</color>
+    <color name="gray_f6">#F6F6F6</color>
+    <color name="gray_fe">#f8f8f8</color>
+    <color name="gray_fc">#fcfcfc</color>
+    <color name="red">#E53935</color>
+
+
+</resources>
